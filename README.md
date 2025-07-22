@@ -42,3 +42,5 @@ Arguments:
 - `-lamda` : Lambda parameter for trust propagation (optional, default: 0.3)
 
 Otherwise, you can run experiments by batch using one of the benchmark scripts, which allow running multiple datasets, attacks and defenses
+
+Please note that the file corresponding to the final version of FedCLEAN is "fedCAM_dev", having been first developed as an extension for FedCAM
